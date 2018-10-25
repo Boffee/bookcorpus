@@ -1,2 +1,2 @@
 # bookcorpus
-Collect sentences from free books
+Collect sentences from free ebooks
